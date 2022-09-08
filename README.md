@@ -6,3 +6,5 @@ Dette er en øvelse for klone og pushe til main
 Branch tesit
 
 Branch test 2 på bravo branch
+
+Joistein sin liste test
