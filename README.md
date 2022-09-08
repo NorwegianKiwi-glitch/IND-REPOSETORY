@@ -9,4 +9,6 @@ Branch test 2 på bravo branch
 
 Joistein sin liste test
 
-vsc endringer 
+vsc endringer
+
+vsc endringer med branch 
