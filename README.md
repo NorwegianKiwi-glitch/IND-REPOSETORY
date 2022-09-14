@@ -12,3 +12,5 @@ Joistein sin liste test
 vsc endringer
 
 vsc endringer med branch 
+
+Test pull og commit i InteliJ
